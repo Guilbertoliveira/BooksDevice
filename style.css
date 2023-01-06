@@ -3,7 +3,8 @@
 :root {
     --cor-de-fundo: #EBECEE;
     --cor-de-fundo-header: #FFFFFF;
-
+    --cor-laranja-modelo: #EB9B00;
+    --azul-padrao: #002F52;
 }
 
 body {
