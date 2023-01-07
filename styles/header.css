@@ -31,6 +31,10 @@
     width: 60vw;
 }
 
+.container__botao {
+    display: none;
+}
+
 .container__botao:checked ~ .lista-menu {
 display: block;}
 
@@ -52,4 +56,5 @@ display: block;}
     -webkit-text-fill-color: transparent;  /*outros tipos de navegadores*/
     background-clip: text; /*prendendo a cor do background só no texto*/
     text-transform: uppercase;
+
 }
