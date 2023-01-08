@@ -1,0 +1,26 @@
+.carrossel_titulo {
+    color: var(--cor-laranja-modelo);
+    background-color: var(--cor-de-fundo-header);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 1em 0 0.5em 0;
+
+}
+
+.carrossel {
+    width: 100%;
+}
+
+.swiper-slide img{
+    width: 100%;
+}
+
+.swiper-button-prev, .swiper-button-next {
+    display: none;
+}
+
+.swiper-pagination {
+    position: initial; /*deixando a bolinha do carrossel em cima */
+}
