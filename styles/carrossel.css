@@ -1,3 +1,5 @@
+
+
 .carrossel_titulo {
     color: var(--cor-laranja-modelo);
     background-color: var(--cor-de-fundo-header);
@@ -23,4 +25,92 @@
 
 .swiper-pagination {
     position: initial; /*deixando a bolinha do carrossel em cima */
+    padding: 5px;
+}
+
+
+.card {
+    background-color: var(--cor-de-fundo-header);
+    width: 85%;
+    margin: 10px auto;
+    padding: 11px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card:hover {
+    background-color: rgb(108, 105, 121);
+    color: white;
+}
+
+.card__descricao {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.descricao__imagem {
+    width: 130px;
+    margin-left: 5px;
+    border-radius: 2px;
+    height: 150px;
+}
+
+.descricao__titulo {
+    font-size: 16px;
+    color: var(--cor-laranja-modelo);
+    font-weight: 700;
+}
+
+.descricao__titulo-livro {
+    font-weight: 700;
+    font-size: 18px;
+    color: var(--azul-padrao);
+    margin: 10px 0px;
+}
+
+.descricao__texto {
+    font-size: 16px;
+    font-weight: 400;
+    padding-right: 30px;
+}
+
+.botoes {
+    display: flex;
+}
+
+.botoes__imagem {
+    width: 40px;
+    height: 47px;
+    margin: 0 5px;
+    
+}
+
+
+.card__botoes {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.botoes__ancora {
+    background-color: var(--cor-laranja-modelo);
+    text-decoration: none;
+    color: var(--cor-de-fundo-header);
+    font-size: 12px;
+    font-weight: 700;
+    border: 1px solid transparent;
+    text-shadow: 
+    -1px -1px 0px black, 
+    -1px 1px 0px black,      
+     1px -1px 0px black,    
+     1px 0px 0px black;
+     padding: 1em 2.6em;
+     border-radius: 2px;
+    }
+
+.botoes__ancora:hover {
+    background-color: red;
 }

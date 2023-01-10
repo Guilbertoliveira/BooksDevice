@@ -44,6 +44,10 @@ display: block;}
     background-color: var(--cor-de-fundo-header);
 }
 
+.lista-menu__item:hover {
+    background-color: antiquewhite;
+}
+
 .lista-menu__titulo {
     color: var(--cor-laranja-modelo);
     font-weight: 700;
