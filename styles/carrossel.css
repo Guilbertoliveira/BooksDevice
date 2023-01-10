@@ -40,8 +40,9 @@
 }
 
 .card:hover {
-    background-color: rgb(108, 105, 121);
+    background-color: #002F52;
     color: white;
+    transition: 4s;
 }
 
 .card__descricao {
@@ -112,5 +113,6 @@
     }
 
 .botoes__ancora:hover {
-    background-color: red;
+    background-color: #117dcf;
+    color: var(--cor-de-fundo-header);
 }

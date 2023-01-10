@@ -45,7 +45,7 @@ display: block;}
 }
 
 .lista-menu__item:hover {
-    background-color: antiquewhite;
+    background-color: var(--cor-laranja-modelo);
 }
 
 .lista-menu__titulo {
