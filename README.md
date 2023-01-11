@@ -12,11 +12,14 @@
 
 
 <h2 id="status-do-projeto">:hammer:Project Status:hammer:</h2>
-<p>Project found under construction and updates for better functioning.</p>
+<p>The mobile version was finalized (project with priority on mobile), but the desktop version will be made.</p>
 
 <h2 id="descricao-projeto">Project description</h2>
 <p>Single page with elements and classes using HTML, CSS, libraries (SwiperJS) and Figma technology. Some customizations were made to make it more enjoyable. This project prioritizes mobile adapting to other types of devices. </p>
-  
+ 
+<h2 id="versaomobile">Version Mobile</h2>
+<img src="https://user-images.githubusercontent.com/41201436/211697372-976e1fe1-c89c-4262-b340-8febe67b3c14.gif" alt="this slowpoke moves"  width="250" />
+
 <h2>Technologies used</h2>
 <p>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="55" title="HTML5"/>
