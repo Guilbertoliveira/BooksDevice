@@ -1,0 +1,67 @@
+.novidade {
+    background-color: var(--cor-de-fundo-header);
+    padding-left: 15px;
+}
+
+.novidade__titulo {
+    font-weight: 500;
+    font-size: 20px;
+    background: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin: 20px 10px 10px 0px;
+}
+
+.novidade__descricao {
+    background: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom:10px;
+    padding-right: 40px;
+
+}
+
+.novidade__email {
+    width: 340px;
+    padding: 10px 0px 10px 0px;
+    border-radius: 15px;
+    border: 1px solid #002F52;
+    background-color: var(--cor-de-fundo-header);
+    margin: 5px 0 20px 0;
+    color: #002F52;
+    font-family: var(--fonte-principal);
+}
+
+.novidade__email::placeholder {
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    color: #002F52;
+    font-weight: 400;
+    background: url("../img/Email.svg");
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: 20px;
+    padding: 60px;
+
+}
+
+footer {
+  background-color: #F9F9F9;  
+  padding: 20px 10px;
+  display: block;
+  color: black;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  
+}
+
+.desenvolvedor {
+    font-style: italic;
+    text-decoration: none;
+    color: black;
+}
