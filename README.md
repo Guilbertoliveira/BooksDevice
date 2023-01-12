@@ -32,3 +32,6 @@
     
 <h2> Figma used designer </h2>
 <p>Here is the <a href="https://www.figma.com/file/rSu4QboNayUa0vf79O5TdJ/AluraBooks-(Copy)?node-id=122%3A4916&t=yGUTZQvceUA92ZEV-1">link</a> of the model that is being used as a reference.</p>
+
+<h2> Project link </h2>
+<p><a href="https://books-device.vercel.app/">Link</a> to the project under development. Current version is mobile only.</p>
