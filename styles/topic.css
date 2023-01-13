@@ -29,6 +29,19 @@
     border-radius: 2px;
 }
 
+
+@media screen and (max-width: 1024px) {
+
+    .topicos {
+        padding: 0px 150px;
+    }
+
+    .topicos__item {
+        padding: 25px;
+    }
+}
+
+
 .topicos__item:active {
     background-color: red;
     transition: 2s;

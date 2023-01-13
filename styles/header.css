@@ -62,3 +62,10 @@ display: block;}
     text-transform: uppercase;
 
 }
+
+
+@media screen and (max-width: 1024px) {
+    .icone_fav {
+        display: none;
+    }
+}

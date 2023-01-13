@@ -6,6 +6,12 @@
 
 }
 
+@media screen and (max-width: 1024px) {
+.banner {
+    width: 95.3%;
+}
+}
+
 .banner__titulo {
     font-weight: 700;
     font-size: 18px;
@@ -37,4 +43,14 @@
     font-family: var(--fonte-principal);
     font-size: 12px;
     text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+    .banner__pesquisa {
+        width: 40%;
+    }
+
+    .banner__pesquisa::placeholder {
+        background-position: 15%;
+    }
 }
