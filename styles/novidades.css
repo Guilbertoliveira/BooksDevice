@@ -26,7 +26,7 @@
 }
 
 .novidade__email {
-    width: 340px;
+    width: 335px;
     padding: 10px 0px 10px 20px;
     border-radius: 15px;
     border: 1px solid #002F52;
@@ -49,10 +49,12 @@
 
 }
 
-@media screen and (max-width: 1024px) {
+
+
+@media screen and (min-width: 1024px) {
     .novidade {
         padding: 10px 10px;
-        width: 98.5%;
+        width: 98%;
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-area: 1fr 1fr;
@@ -61,7 +63,7 @@
     .novidade__email {
         grid-column: 2;
         grid-row: 1 / span 2;
-        margin: 40px;
+        margin: 40px 30px;
         padding: 10px 0px 5px 20px;
 
     }

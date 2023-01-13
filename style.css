@@ -11,6 +11,7 @@
     --cor-laranja-modelo: #EB9B00;
     --azul-padrao: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --fonte-principal: 'Poppins', sans-serif;
+    --fonte-secundaria: 'Josefin Sans', sans-serif;
 }
 
 body {

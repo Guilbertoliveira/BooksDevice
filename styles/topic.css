@@ -30,7 +30,7 @@
 }
 
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 1024px) {
 
     .topicos {
         padding: 0px 150px;

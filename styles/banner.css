@@ -3,10 +3,11 @@
     color: var(--cor-de-fundo-header);
     text-align: center;
     padding: 2.9em 1.5em;
+    display: block;
 
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 1024px) {
 .banner {
     width: 95.3%;
 }
@@ -45,7 +46,7 @@
     text-align: center;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 1024px) {
     .banner__pesquisa {
         width: 40%;
     }
