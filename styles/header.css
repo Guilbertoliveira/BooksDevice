@@ -111,4 +111,9 @@ display: block;}
     .icone__usuario {
         margin-left: 40px;
     }
+
+    .container__imagem {
+        padding: 0 1em;
+        margin-left: 25px;
+    }
 }
