@@ -14,3 +14,46 @@ footer {
       text-decoration: none;
       color: black;
   }
+
+ .container__educacao, .container__educacao-online, .container__comunidade {
+    display: none;
+ }
+
+  @media screen and (min-width: 1024px) {
+    .container__fotter {
+        background-color: #F9F9F9;  
+        display: flex;
+        flex-direction: row;
+        color: black;
+        font-weight: 400;
+        font-size: 16px;
+        justify-content: space-evenly;
+        padding: 40px 10px 80px 10px;
+      }
+
+
+    .educacao__item, .online__item, .comunidade__item {
+        display: flex;
+        margin: 15px 0px;
+        align-items: center;
+    }
+
+    .link__footer {
+        text-decoration: none;
+        color: #474646;
+        padding-left: 5px;
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    .titulo__link-footer {
+        font-size: 14px;
+        font-weight: 400;
+        color: #858585;
+        text-align: start;
+    }
+
+    .container__educacao, .container__educacao-online, .container__comunidade {
+        display: block;
+     }
+  }
