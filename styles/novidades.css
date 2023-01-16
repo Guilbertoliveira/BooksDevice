@@ -53,8 +53,8 @@
 
 @media screen and (min-width: 1024px) {
     .novidade {
-        padding: 10px 10px;
-        width: 98%;
+        padding: 10px 100px 10px 50px;
+        width: 85.4%;
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-area: 1fr 1fr;
@@ -68,8 +68,15 @@
 
     }
 
-    
+    .novidade__titulo {
+        font-size: 24px;
+        font-weight: 500;
+    }
 
+    .novidade__descricao {
+        font-size: 16px;
+        font-weight: 300;
+    }
 
 }
 

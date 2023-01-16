@@ -10,6 +10,8 @@
 @media screen and (min-width: 1024px) {
 .banner {
     width: 95.3%;
+    padding: 4em 1.5em;
+
 }
 }
 
@@ -28,7 +30,7 @@
 
 .banner__pesquisa {
     width: 100%;
-    padding: 1em;
+    padding: 1em 1em 1em 3em;
     background-color: transparent;
     border: none;
     color: var(--cor-de-fundo-header);
@@ -39,7 +41,7 @@
 .banner__pesquisa::placeholder {
     background: url("../img/Pesquisa.svg");
     background-repeat: no-repeat;
-    background-position: 10%;
+    background-position: 5%;
     color: var(--cor-de-fundo-header);
     font-family: var(--fonte-principal);
     font-size: 12px;
@@ -54,4 +56,16 @@
     .banner__pesquisa::placeholder {
         background-position: 15%;
     }
+
+    .banner__titulo {
+        font-weight: 700;
+        font-size: 36px;
+    }
+    
+    .banner__texto {
+        font-size: 16px;
+        font-weight: 500;
+        margin: 1em 0 2em 0
+    }
+
 }

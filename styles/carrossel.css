@@ -116,3 +116,28 @@
     background-color: #117dcf;
     color: var(--cor-de-fundo-header);
 }
+
+@media screen and (min-width: 1024px) {
+    .carrossel_titulo {
+        padding: 1.4em 0 0.5em 0;
+        font-size: 26px;
+        font-weight: 700;
+    }
+
+    .swiper {
+        width: 60%;
+    }
+
+    .swiper-pagination {
+        margin: 1em 0 1.5em 0;
+    }
+
+    .swiper-slide {
+        margin: 2em 0em;
+    }
+
+    .card {
+        width: 500px;
+        margin-bottom: 20px;
+    }
+}
