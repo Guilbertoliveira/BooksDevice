@@ -71,6 +71,10 @@ display: block;}
     display: none;
 }
 
+.opcoes__botao {
+    display: none;
+}
+
 @media screen and (min-width: 1024px) {
     .icone__fav {
         display: none;
@@ -115,5 +119,15 @@ display: block;}
     .container__imagem {
         padding: 0 1em;
         margin-left: 25px;
+    }
+
+    .opcoes__botao:checked ~ .lista-menu {
+        display: inline;
+    }
+
+    .lista-menu {
+        width: 20vw;
+        top: 53px;
+        z-index: 2;
     }
 }
