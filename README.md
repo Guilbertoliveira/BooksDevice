@@ -20,6 +20,10 @@
 <h2 id="versaomobile">Version Mobile</h2>
 <img src="https://user-images.githubusercontent.com/41201436/211697372-976e1fe1-c89c-4262-b340-8febe67b3c14.gif" alt="this slowpoke moves"  width="250" />
 
+<h2>Version Tablet</h2>
+<img src="https://user-images.githubusercontent.com/41201436/212782072-5db47c49-6704-425a-8a42-816df037b7a7.gif" alt="this slowpoke moves"  width="350" height="400" />
+
+
 <h2>Technologies used</h2>
 <p>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="55" title="HTML5"/>
