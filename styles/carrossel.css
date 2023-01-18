@@ -142,3 +142,22 @@
     }
 }
 
+@media screen and (min-width: 1728px) {
+    .carrossel__container {
+        display: flex;
+    }
+
+    .swiper {
+        width: 40%;
+        margin-right: 0px;
+    }
+
+    .card{
+        align-self: center;
+        margin-left:100px;
+    }
+
+   
+    
+   
+}

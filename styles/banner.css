@@ -29,7 +29,7 @@
 
 
 .banner__pesquisa {
-    width: 100%;
+    width: 320px;
     padding: 1em 1em 1em 3em;
     background-color: transparent;
     border: none;
@@ -79,5 +79,9 @@
 
     .banner__pesquisa {
         width: 25%;
+    }
+
+    .banner__pesquisa::placeholder {
+        background-position: 20%;
     }
 }

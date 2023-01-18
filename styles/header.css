@@ -150,5 +150,10 @@ display: block;}
    .categoria__header {
     margin-right: auto;
    } 
+
+   .container__texto {
+    display: block;
+}
+  
     
 }
