@@ -46,3 +46,14 @@
     background-color: red;
     transition: 2s;
 }
+
+
+@media screen and (min-width: 1728px) {
+    .topicos {
+        padding: 20px 500px;
+    }
+
+    .topicos__item {
+        padding: 25px 40px;
+    }
+}

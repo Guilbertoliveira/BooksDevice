@@ -80,5 +80,16 @@
 
 }
 
+@media screen and (min-width: 1728px) {
+    .novidade {
+        justify-items: center;
+        padding: 30px 500px;
+    }
+
+    .novidade__email {
+        padding-left: 0px;
+    }
+}
+
 
 

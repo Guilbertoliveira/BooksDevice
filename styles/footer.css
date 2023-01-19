@@ -59,3 +59,10 @@ footer {
   }
 
 
+  @media screen and (min-width: 1728px) {
+    .container__educacao, .container__educacao-online, .container__comunidade {
+        border-left: 1px solid #858585;
+        padding-left: 15px; 
+    }
+  }
+

@@ -80,6 +80,8 @@ display: block;}
     display: none;
 }
 
+
+
 @media screen and (min-width: 1024px) {
     .icone__fav {
         display: none;
@@ -155,5 +157,18 @@ display: block;}
     display: block;
 }
   
+.lista-menu {
+    width: 20vw;
+    top: 50px;
+    z-index: 2;
+}
+
+.lista-menu__item:hover {
+    background-color: #002F52;
+}
+
+.lista-menu__item:hover > .lista-menu__link {
+    -webkit-text-fill-color: white;
+}
     
 }
