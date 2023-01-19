@@ -23,6 +23,10 @@
 <h2>Version Tablet</h2>
 <img src="https://user-images.githubusercontent.com/41201436/212782072-5db47c49-6704-425a-8a42-816df037b7a7.gif" alt="this slowpoke moves"  width="350" height="400" />
 
+<h2>Version Desktop</h2>
+<img src="https://user-images.githubusercontent.com/41201436/213489814-d9909764-f873-4adc-b12b-8fc84a4e6099.gif" alt="this slowpoke moves"  width="750" height="550" />
+
+
 
 <h2>Technologies used</h2>
 <p>
