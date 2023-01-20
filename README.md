@@ -12,7 +12,7 @@
 
 
 <h2 id="status-do-projeto">:hammer:Project Status:hammer:</h2>
-<p>The mobile version was finalized (project with priority on mobile), but the desktop version will be made.</p>
+<p>The mobile version was finalized (project with priority on mobile).</p>
 
 <h2 id="descricao-projeto">Project description</h2>
 <p>Single page with elements and classes using HTML, CSS, libraries (SwiperJS) and Figma technology. Some customizations were made to make it more enjoyable. This project prioritizes mobile adapting to other types of devices. </p>
@@ -42,4 +42,4 @@
 <p>Here is the <a href="https://www.figma.com/file/rSu4QboNayUa0vf79O5TdJ/AluraBooks-(Copy)?node-id=122%3A4916&t=yGUTZQvceUA92ZEV-1">link</a> of the model that is being used as a reference.</p>
 
 <h2> Project link </h2>
-<p><a href="https://books-device.vercel.app/">Link</a> to the project under development. Current version is mobile only.</p>
+<p><a href="https://books-device.vercel.app/">Link</a> to the project under development. Mobile, desktop and tablet version finished.</p>
