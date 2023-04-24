@@ -21,7 +21,7 @@
 <img src="https://user-images.githubusercontent.com/41201436/211697372-976e1fe1-c89c-4262-b340-8febe67b3c14.gif" alt="this slowpoke moves"  width="250" />
 
 <h2>Version Tablet</h2>
-<img src="https://user-images.githubusercontent.com/41201436/212782072-5db47c49-6704-425a-8a42-816df037b7a7.gif" alt="this slowpoke moves"  width="400" height="550" />
+<img src="https://user-images.githubusercontent.com/41201436/212782072-5db47c49-6704-425a-8a42-816df037b7a7.gif" alt="this slowpoke moves"  width="500" height="550" />
 
 <h2>Version Desktop</h2>
 <img src="https://user-images.githubusercontent.com/41201436/213489814-d9909764-f873-4adc-b12b-8fc84a4e6099.gif" alt="this slowpoke moves"  width="750" height="450" />
